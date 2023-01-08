@@ -10,5 +10,5 @@ function palindrome(str){
     return "false";
 }
 let str="racecar";
-palindrome(str);
+palindrome(str)
 module.exports = palindrome
